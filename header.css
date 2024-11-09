@@ -1,7 +1,7 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: :border-box;
+    box-sizing:border-box;
 }
 a,a:link,a:visited{
     color:inherit;
@@ -12,7 +12,7 @@ li{
 }
 
 .container{ /*   */
-    width 1140px;
+    width: 1140px;
     margin:0 auto;
 }
 header{ /*   */
